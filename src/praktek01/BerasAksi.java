@@ -34,7 +34,9 @@ public class BerasAksi {
         Ketan.kadarair = "Sedikit";
         
         Siam.cetakinfo();
+        System.out.println();
         Jawa.cetakinfo();
+        System.out.println();
         Ketan.cetakinfo();
                 
         
