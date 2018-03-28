@@ -10,5 +10,10 @@ package praktek01;
  * @author user
  */
 public class BerasAksi {
-    
+    public static void main(String[] args) {
+        Beras Siam = new Beras();
+        
+        Siam.ukuran
+        
+    }
 }

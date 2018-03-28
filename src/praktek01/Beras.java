@@ -11,14 +11,18 @@ package praktek01;
  */
 public class Beras {
     
-    String siam;
-    String jawa;
-    String ketan;
+    String ukuran;
+    String warna;
+    String hasil;
+    String bau;
+    String kadarair;
     
     void cetakinfo(){
-        System.out.println("Siam  :"+siam);
-        System.out.println("Jawa  :"+jawa);
-        System.out.println("Ketan :"+ketan);
+        System.out.println("Ukuran    :"+ukuran);
+        System.out.println("Warna     :"+warna);
+        System.out.println("Hasil     :"+hasil);
+        System.out.println("Bau       :"+bau);
+        System.out.println("Kadar Air :"+kadarair);
     }
     
 }
