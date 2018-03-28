@@ -32,6 +32,10 @@ public class BerasAksi {
         Ketan.hasil    = "Lengket";
         Ketan.bau      = "Wangi Khas";
         Ketan.kadarair = "Sedikit";
+        
+        Siam.cetakinfo();
+        Jawa.cetakinfo();
+        Ketan.cetakinfo();
                 
         
     }
