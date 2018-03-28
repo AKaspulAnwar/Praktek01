@@ -11,4 +11,14 @@ package praktek01;
  */
 public class Beras {
     
+    String siam;
+    String jawa;
+    String ketan;
+    
+    void cetakinfo(){
+        System.out.println("Siam  :"+siam);
+        System.out.println("Jawa  :"+jawa);
+        System.out.println("Ketan :"+ketan);
+    }
+    
 }
