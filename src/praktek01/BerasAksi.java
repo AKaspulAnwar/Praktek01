@@ -19,7 +19,19 @@ public class BerasAksi {
         Siam.warna    = "Putih Bening";
         Siam.hasil    = "Karau";
         Siam.bau      = "Harum";
-        Siam.kadarair = "sedikit";
+        Siam.kadarair = "Sedikit";
+        
+        Jawa.ukuran   = "Gemuk";
+        Jawa.warna    = "Agak Keruh";
+        Jawa.hasil    = "Agak Lengkat/Pulen";
+        Jawa.bau      = "Harum";
+        Jawa.kadarair = "Agak Banyak";
+        
+        Ketan.ukuran   = "Gemuk";
+        Ketan.warna    = "Putih Susu";
+        Ketan.hasil    = "Lengket";
+        Ketan.bau      = "Wangi Khas";
+        Ketan.kadarair = "Sedikit";
                 
         
     }
