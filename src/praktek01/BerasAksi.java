@@ -11,9 +11,16 @@ package praktek01;
  */
 public class BerasAksi {
     public static void main(String[] args) {
-        Beras Siam = new Beras();
+        Beras Siam  = new Beras();
+        Beras Jawa  = new Beras();
+        Beras Ketan = new Beras();
         
-        Siam.ukuran
+        Siam.ukuran   = "Kurus Agak Panjang";
+        Siam.warna    = "Putih Bening";
+        Siam.hasil    = "Karau";
+        Siam.bau      = "Harum";
+        Siam.kadarair = "sedikit";
+                
         
     }
 }
