@@ -13,19 +13,22 @@ public class BerasAksi {
     public static void main(String[] args) {
         Beras Siam  = new Beras();
         Beras Jawa  = new Beras();
-        Beras Ketan = new Beras();
+        Beras Ketan = new Beras(); 
         
+        System.out.println("Beras Siam");
         Siam.ukuran   = "Kurus Agak Panjang";
         Siam.warna    = "Putih Bening";
         Siam.hasil    = "Karau";
         Siam.bau      = "Harum";
         Siam.kadarair = "Sedikit";
         
+        
         Jawa.ukuran   = "Gemuk";
         Jawa.warna    = "Agak Keruh";
         Jawa.hasil    = "Agak Lengkat/Pulen";
         Jawa.bau      = "Harum";
         Jawa.kadarair = "Agak Banyak";
+        
         
         Ketan.ukuran   = "Gemuk";
         Ketan.warna    = "Putih Susu";
@@ -35,8 +38,10 @@ public class BerasAksi {
         
         Siam.cetakinfo();
         System.out.println();
+        System.out.println("Beras Jawa");
         Jawa.cetakinfo();
         System.out.println();
+        System.out.println("Beras Ketan");
         Ketan.cetakinfo();
                 
         
